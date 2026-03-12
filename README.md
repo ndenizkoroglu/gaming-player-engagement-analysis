@@ -60,7 +60,15 @@ Steps:
 ![Scatter Plot](charts/completion_vs_normalized_score.png)
 
 ---
+---
 
+# Key Findings
+
+- PlayStation shows the highest average engagement score among the platforms.
+- Steam lacks normalized achievement scores, which limits direct comparison with console platforms.
+- Completion ratio and normalized achievement score show a weak positive relationship.
+- Regression results indicate that completion ratio alone explains only a small portion of engagement variation.
+- Platform differences in player behavior appear statistically significant based on ANOVA testing.
 # Repository Structure
 gaming-player-engagement-analysis
 
