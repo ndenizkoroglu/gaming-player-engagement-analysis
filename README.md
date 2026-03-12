@@ -1,4 +1,10 @@
 # Gaming Player Engagement Analysis
+## Project Highlights
+
+- Cross-platform player engagement analysis using achievement completion metrics
+- Comparison of PlayStation rarity system and Xbox points system
+- Statistical analysis including regression and ANOVA testing
+- Data pipeline built using BigQuery and Python
 
 This project analyzes player engagement across Steam, PlayStation, and Xbox platforms using achievement completion and reward-system-based metrics.
 
